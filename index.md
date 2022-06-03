@@ -1,5 +1,10 @@
 ---
-title: "Welcome to my blog"
+title: "My Blog My Rules"
 ---
 
-I'm glad you are here. I plan to talk about ...
+# Welcome   
+I'm glad you are here. I plan to talk about ...  
+
+## First Topic
+
+Some useless chat.
